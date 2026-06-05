@@ -36,19 +36,19 @@ This demonstrates:
 ## 🖼️ Figma Design Reference (Screenshots)
 
 ### Home Page
-![Home Page](/images/web-main.JPG)
+![Home Page](./design-assets/web-main.jpg)
 
 ### Product Grid View
-![Grid View](/images/web-gridview.jpg)
+![Grid View](./design-assets/web-gridview.jpg)
 
 ### Product List View
-![List View](/images/web-list.jpg)
+![List View](./design-assets/web-list.jpg)
 
 ### Product Detail Page
-![Product Detail](/images/web-detail.jpg)
+![Product Detail](./design-assets/web-detail.jpg)
 
 ### Cart Page
-![Cart Page](/images/web-cart.jpg)
+![Cart Page](./design-assets/web-cart.jpg)
 
 ---
 
