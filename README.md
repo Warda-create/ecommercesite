@@ -29,26 +29,26 @@ This demonstrates:
 
 ## 🌐 Live Demo
 
-👉 https://your-live-project-link.com
+👉 https://ecommercesite-coral.vercel.app/
 
 ---
 
 ## 🖼️ Figma Design Reference (Screenshots)
 
 ### Home Page
-![Home Page](/images/home.jpg)
+![Home Page](/images/web-main.jpg)
 
 ### Product Grid View
-![Grid View](/images/grid.jpg)
+![Grid View](/images/web-gridview.jpg)
 
 ### Product List View
-![List View](/images/list.jpg)
+![List View](/images/web-list.jpg)
 
 ### Product Detail Page
-![Product Detail](/images/detail.jpg)
+![Product Detail](/images/web-detail.jpg)
 
 ### Cart Page
-![Cart Page](/images/cart.jpg)
+![Cart Page](/images/web-cart.jpg)
 
 ---
 
