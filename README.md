@@ -36,7 +36,7 @@ This demonstrates:
 ## 🖼️ Figma Design Reference (Screenshots)
 
 ### Home Page
-![Home Page](/images/web-main.jpg)
+![Home Page](/images/web-main.JPG)
 
 ### Product Grid View
 ![Grid View](/images/web-gridview.jpg)
